@@ -1,2 +1,3 @@
 # email-spam-classifier-new
-End to end code for the email spam classifier project
+This is a sms spam classifier project
+Link to the project website - https://sms-spam-classifier-satya420.streamlit.app/
